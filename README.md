@@ -1,4 +1,5 @@
 # Simple Bash Utils
+![Simple Bash Utils Logo](./logo.webp)
 
 ## Описание
 
